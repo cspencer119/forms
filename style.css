@@ -1,0 +1,38 @@
+body {
+    background-color: skyblue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.main {
+    position: center;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 2px solid grey;
+    width: 250px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 550px
+}
+
+.regis {
+    align-content: center;
+    position: center;
+    
+}
+
+.reg {
+    width: 50px;
+    border: 2px solid black;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    box-shadow: 3px solid black;
+    
+}
+
+.corner {
+    margin-top: 0px;
+    background-color: antiquewhite;
+    text-align: right;
+    
+}
